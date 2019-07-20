@@ -1,0 +1,2 @@
+# imageclassification
+An Image Classification Program that distinguishes between 2 categories of images. Sample pictures for database not included.
